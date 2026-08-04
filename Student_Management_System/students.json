@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "123",
+        "name": "Rabia",
+        "age": "18",
+        "course": "BS Mathematics"
+    },
+    {
+        "student_id": "234",
+        "name": "Sara",
+        "age": "19",
+        "course": "BS Mathematics"
+    },
+    {
+        "student_id": "345",
+        "name": "Ali",
+        "age": "12",
+        "course": "Matric"
+    }
+]
