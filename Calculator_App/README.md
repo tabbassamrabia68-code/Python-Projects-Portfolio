@@ -1,37 +1,47 @@
-# 🧮 Calculator App Using Python
+# 🧮 Calculator App | Python Project
 
-## 📌 Project Overview
+## 📌 About This Project
 
-This project is a simple and user-friendly **Calculator Application built with Python**. It performs basic arithmetic operations and demonstrates fundamental programming concepts such as functions, conditional statements, and user input handling.
+Calculator App is a beginner-friendly Python application designed to perform basic mathematical calculations through a simple command-line interface.
+
+This project demonstrates my understanding of Python fundamentals, logical thinking, and building practical programming solutions.
+
+---
 
 ## 🚀 Features
 
-✅ Addition (+)
-✅ Subtraction (-)
-✅ Multiplication (*)
-✅ Division (/)
-✅ User input handling
-✅ Error handling for invalid operations
-✅ Simple and interactive command-line interface
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* 🔢 User input handling
+* ⚠️ Division by zero error handling
+* 🖥️ Interactive console interface
 
-## 🛠️ Technologies Used
+---
 
-* Python 🐍
+## 🛠️ Built With
+
+* Python 3
 * VS Code
 * Git & GitHub
 
+---
+
 ## 📂 Project Structure
 
-```
-Calculator-App-Python/
+```text
+Calculator_App/
 │
-├── calculator.py
+├── Calculator.py
 └── README.md
 ```
 
-## ▶️ How to Run the Project
+---
 
-1. Clone the repository:
+## ▶️ How to Use
+
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/tabbassamrabia68-code/Calculator_App.git
@@ -43,35 +53,68 @@ git clone https://github.com/tabbassamrabia68-code/Calculator_App.git
 cd Calculator_App
 ```
 
-3. Run the Python file:
+3. Run the application:
 
 ```bash
-python calculator.py
+python Calculator.py
 ```
 
-## 💡 Learning Outcomes
+4. Select an operation and enter the required numbers.
 
-Through this project, I practiced:
+---
 
-* Python functions
-* Conditional statements
-* User input handling
-* Mathematical operations
-* Problem-solving skills
-* GitHub project management
+## 📚 Python Concepts Used
 
-## 📸 Project Demo
+* Variables
+* Data Types
+* Functions
+* Operators
+* Conditional Statements
+* User Input
+* Error Handling
 
-(Add your calculator output screenshot here)
+---
+
+## 🎯 Learning Outcomes
+
+By building this project, I improved my:
+
+* Python programming skills
+* Logical thinking
+* Problem-solving abilities
+* Understanding of functions and conditional statements
+* Git & GitHub workflow
+
+---
+
+## 🔮 Future Enhancements
+
+* Develop a graphical user interface (GUI) using Tkinter
+* Add scientific calculator functions
+* Implement calculation history
+* Improve the user experience
+
+---
 
 ## 👩‍💻 Author
 
 **Rabia Tabbassam**
 
-BS Mathematics Student | Python Developer | AI & Data Analytics Enthusiast
+🎓 BS Mathematics Student
+🐍 Python Developer
+📊 Data Analytics Learner
+🤖 AI & Automation Enthusiast
 
-## ⭐ Future Improvements
+---
 
-* Add GUI interface using Tkinter
-* Add scientific calculator features
-* Improve user interface
+## 🔗 Connect With Me
+
+**GitHub:**
+https://github.com/tabbassamrabia68-code
+
+**LinkedIn:**
+https://www.linkedin.com/in/rabia-tabbassam/
+
+---
+
+⭐ Thank you for visiting this project. Your feedback and suggestions are always welcome!
