@@ -6,7 +6,9 @@ from datetime import datetime  # For timestamping every transaction
 # ------------------------------------------------------------------------
 # GLOBAL CONSTANTS
 # ------------------------------------------------------------------------
-DATA_FILE = "accounts.json"        # File where all account data is stored
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_FILE = os.path.join(BASE_DIR, "accounts.json")
+
 STARTING_ACCOUNT_NUMBER = 1001     # First auto-generated account number
 
 

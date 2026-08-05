@@ -1,1 +1,92 @@
-{}
+{
+    "ACC1001": {
+        "account_number": "ACC1001",
+        "full_name": "Rabia",
+        "cnic": "3610394143678",
+        "phone_number": "03456275684",
+        "balance": 1240000.0,
+        "transaction_history": [
+            {
+                "type": "Initial Deposit",
+                "amount": 10000.0,
+                "balance_after": 10000.0,
+                "date_time": "2026-08-05 15:54:30"
+            },
+            {
+                "type": "Deposit",
+                "amount": 1230000.0,
+                "balance_after": 1240000.0,
+                "date_time": "2026-08-05 15:56:02"
+            }
+        ]
+    },
+    "ACC1002": {
+        "account_number": "ACC1002",
+        "full_name": "Muhammad",
+        "cnic": "3602376384793",
+        "phone_number": "03479164864",
+        "balance": 39978100.0,
+        "transaction_history": [
+            {
+                "type": "Initial Deposit",
+                "amount": 2000.0,
+                "balance_after": 2000.0,
+                "date_time": "2026-08-05 15:55:22"
+            },
+            {
+                "type": "Deposit",
+                "amount": 40000000.0,
+                "balance_after": 40002000.0,
+                "date_time": "2026-08-05 15:58:54"
+            },
+            {
+                "type": "Transfer Sent to ACC1004",
+                "amount": 23900.0,
+                "balance_after": 39978100.0,
+                "date_time": "2026-08-05 15:59:53"
+            }
+        ]
+    },
+    "ACC1003": {
+        "account_number": "ACC1003",
+        "full_name": "JUNAID",
+        "cnic": "3610376345298",
+        "phone_number": "03782563782",
+        "balance": 99997700.0,
+        "transaction_history": [
+            {
+                "type": "Initial Deposit",
+                "amount": 100000000.0,
+                "balance_after": 100000000.0,
+                "date_time": "2026-08-05 15:57:03"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 2300.0,
+                "balance_after": 99997700.0,
+                "date_time": "2026-08-05 15:59:13"
+            }
+        ]
+    },
+    "ACC1004": {
+        "account_number": "ACC1004",
+        "full_name": "HUMZA",
+        "cnic": "3610735633864",
+        "phone_number": "03278391274",
+        "balance": 12323900.0,
+        "transaction_history": [
+            {
+                "type": "Initial Deposit",
+                "amount": 12300000.0,
+                "balance_after": 12300000.0,
+                "date_time": "2026-08-05 15:57:59"
+            },
+            {
+                "type": "Transfer Received from ACC1002",
+                "amount": 23900.0,
+                "balance_after": 12323900.0,
+                "date_time": "2026-08-05 15:59:53"
+            }
+        ]
+    }
+}
