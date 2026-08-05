@@ -1,58 +1,127 @@
 {
-    "569388": {
-        "acc_no": "569388",
-        "name": "ALI RAZA",
-        "cnic": "3610394105762",
-        "phone": "09876654332",
-        "balance": 800.0,
-        "transactions": [
-            {
-                "type": "Initial Deposit",
-                "amount": 1000.0,
-                "balance_after": 1000.0,
-                "date": "2026-08-05 14:08:00"
-            },
-            {
-                "type": "Deposit",
-                "amount": 1000.0,
-                "balance_after": 2000.0,
-                "date": "2026-08-05 14:38:03"
-            },
-            {
-                "type": "Withdraw",
-                "amount": 1200.0,
-                "balance_after": 800.0,
-                "date": "2026-08-05 14:38:31"
-            }
-        ]
-    },
-    "323072": {
-        "acc_no": "323072",
-        "name": "ALI RAZA",
-        "cnic": "3610394112543",
-        "phone": "03987651234",
-        "balance": 100000.0,
-        "transactions": [
+    "ACC1001": {
+        "account_number": "ACC1001",
+        "full_name": "RABIA TABBASSAM",
+        "cnic": "3610397865342",
+        "phone_number": "03267542789",
+        "balance": 4053790.0,
+        "transaction_history": [
             {
                 "type": "Initial Deposit",
                 "amount": 100000.0,
                 "balance_after": 100000.0,
-                "date": "2026-08-05 14:35:55"
+                "date_time": "2026-08-05 15:25:52"
+            },
+            {
+                "type": "Deposit",
+                "amount": 3900000.0,
+                "balance_after": 4000000.0,
+                "date_time": "2026-08-05 15:28:33"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 2600.0,
+                "balance_after": 3997400.0,
+                "date_time": "2026-08-05 15:28:51"
+            },
+            {
+                "type": "Transfer Sent to ACC1003",
+                "amount": 3600.0,
+                "balance_after": 3993800.0,
+                "date_time": "2026-08-05 15:29:44"
+            },
+            {
+                "type": "Transfer Received from ACC1006",
+                "amount": 59990.0,
+                "balance_after": 4053790.0,
+                "date_time": "2026-08-05 15:39:18"
             }
         ]
     },
-    "809161": {
-        "acc_no": "809161",
-        "name": "MUHAMMAD",
-        "cnic": "3610397645673",
-        "phone": "03256784567",
-        "balance": 2340000.0,
-        "transactions": [
+    "ACC1002": {
+        "account_number": "ACC1002",
+        "full_name": "HAMZA",
+        "cnic": "3610367425678",
+        "phone_number": "03453678956",
+        "balance": 200000.0,
+        "transaction_history": [
             {
                 "type": "Initial Deposit",
-                "amount": 2340000.0,
-                "balance_after": 2340000.0,
-                "date": "2026-08-05 14:36:34"
+                "amount": 200000.0,
+                "balance_after": 200000.0,
+                "date_time": "2026-08-05 15:26:33"
+            }
+        ]
+    },
+    "ACC1003": {
+        "account_number": "ACC1003",
+        "full_name": "MUHAMMAD",
+        "cnic": "3610367458239",
+        "phone_number": "03254682367",
+        "balance": 403600.0,
+        "transaction_history": [
+            {
+                "type": "Initial Deposit",
+                "amount": 400000.0,
+                "balance_after": 400000.0,
+                "date_time": "2026-08-05 15:27:08"
+            },
+            {
+                "type": "Transfer Received from ACC1001",
+                "amount": 3600.0,
+                "balance_after": 403600.0,
+                "date_time": "2026-08-05 15:29:44"
+            }
+        ]
+    },
+    "ACC1004": {
+        "account_number": "ACC1004",
+        "full_name": "RABIA TABBASSAM",
+        "cnic": "3610387634598",
+        "phone_number": "03295634890",
+        "balance": 100000.0,
+        "transaction_history": [
+            {
+                "type": "Initial Deposit",
+                "amount": 100000.0,
+                "balance_after": 100000.0,
+                "date_time": "2026-08-05 15:37:43"
+            }
+        ]
+    },
+    "ACC1005": {
+        "account_number": "ACC1005",
+        "full_name": "ALI",
+        "cnic": "3610356378356",
+        "phone_number": "03267835678",
+        "balance": 100098.0,
+        "transaction_history": [
+            {
+                "type": "Initial Deposit",
+                "amount": 100098.0,
+                "balance_after": 100098.0,
+                "date_time": "2026-08-05 15:38:10"
+            }
+        ]
+    },
+    "ACC1006": {
+        "account_number": "ACC1006",
+        "full_name": "JUNAID",
+        "cnic": "3610365783459",
+        "phone_number": "03296735692",
+        "balance": 64009.0,
+        "transaction_history": [
+            {
+                "type": "Initial Deposit",
+                "amount": 123999.0,
+                "balance_after": 123999.0,
+                "date_time": "2026-08-05 15:38:52"
+            },
+            {
+                "type": "Transfer Sent to ACC1001",
+                "amount": 59990.0,
+                "balance_after": 64009.0,
+                "date_time": "2026-08-05 15:39:18"
             }
         ]
     }

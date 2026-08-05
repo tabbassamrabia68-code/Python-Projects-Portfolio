@@ -1,17 +1,3 @@
-"""
-==============================================================================
- PROJECT      : Bank Management System
- DESCRIPTION  : A console-based Bank Management System built using Python OOP
-                concepts with JSON file storage for persistent data.
- AUTHOR       : Rabia Tabbassam
- GITHUB       : https://github.com/tabbassamrabia68-code
- LINKEDIN     : https://www.linkedin.com/in/rabia-tabbassam/
-==============================================================================
-"""
-
-# ------------------------------------------------------------------------
-# IMPORTS
-# ------------------------------------------------------------------------
 import json                # For reading/writing account data in JSON format
 import os                  # For checking whether the data file exists
 from datetime import datetime  # For timestamping every transaction

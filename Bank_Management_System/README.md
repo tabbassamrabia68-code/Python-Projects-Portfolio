@@ -115,19 +115,6 @@ The program will automatically load any existing data from `accounts.json`. If i
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your terminal running the program here once available.)*
-
-```
-[ Screenshot: Main Menu ]
-[ Screenshot: Creating an Account ]
-[ Screenshot: Viewing All Accounts ]
-[ Screenshot: Transaction History ]
-```
-
----
-
 ## 🚀 Future Improvements
 
 - Build a **GUI version** using Tkinter or PyQt
