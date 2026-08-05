@@ -1,0 +1,59 @@
+{
+    "569388": {
+        "acc_no": "569388",
+        "name": "ALI RAZA",
+        "cnic": "3610394105762",
+        "phone": "09876654332",
+        "balance": 800.0,
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 1000.0,
+                "balance_after": 1000.0,
+                "date": "2026-08-05 14:08:00"
+            },
+            {
+                "type": "Deposit",
+                "amount": 1000.0,
+                "balance_after": 2000.0,
+                "date": "2026-08-05 14:38:03"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 1200.0,
+                "balance_after": 800.0,
+                "date": "2026-08-05 14:38:31"
+            }
+        ]
+    },
+    "323072": {
+        "acc_no": "323072",
+        "name": "ALI RAZA",
+        "cnic": "3610394112543",
+        "phone": "03987651234",
+        "balance": 100000.0,
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 100000.0,
+                "balance_after": 100000.0,
+                "date": "2026-08-05 14:35:55"
+            }
+        ]
+    },
+    "809161": {
+        "acc_no": "809161",
+        "name": "MUHAMMAD",
+        "cnic": "3610397645673",
+        "phone": "03256784567",
+        "balance": 2340000.0,
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 2340000.0,
+                "balance_after": 2340000.0,
+                "date": "2026-08-05 14:36:34"
+            }
+        ]
+    }
+}
