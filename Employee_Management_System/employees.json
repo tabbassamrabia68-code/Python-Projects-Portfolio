@@ -1,0 +1,82 @@
+{
+  "EMP1001": {
+    "employee_id": "EMP1001",
+    "name": "ARIF",
+    "age": 40,
+    "phone": "03297865356",
+    "email": "aaaa@gmail.com",
+    "department": "HIGHWAY",
+    "position": "SDO",
+    "salary": 1325637.0
+  },
+  "EMP1002": {
+    "employee_id": "EMP1002",
+    "name": "Junaid",
+    "age": 35,
+    "phone": "03657892435",
+    "email": "jjjjj@gmail.com",
+    "department": "Machanical",
+    "position": "Manager",
+    "salary": 765423.0
+  },
+  "EMP1003": {
+    "employee_id": "EMP1003",
+    "name": "12345",
+    "age": 56,
+    "phone": "03456589456",
+    "email": "ahb@gmail.com",
+    "department": "Education",
+    "position": "Head",
+    "salary": 123456.0
+  },
+  "EMP1004": {
+    "employee_id": "EMP1004",
+    "name": "ARIF",
+    "age": 56,
+    "phone": "03457689345",
+    "email": "aaaa@email.com",
+    "department": "Highway",
+    "position": "SDO",
+    "salary": 45677533.0
+  },
+  "EMP1005": {
+    "employee_id": "EMP1005",
+    "name": "Junaid",
+    "age": 37,
+    "phone": "03564798345",
+    "email": "jajj@gmail.com",
+    "department": "Machanical",
+    "position": "Head",
+    "salary": 45676543.0
+  },
+  "EMP1006": {
+    "employee_id": "EMP1006",
+    "name": "Ali",
+    "age": 25,
+    "phone": "03982567385",
+    "email": "aaaa@email.com",
+    "department": "Education",
+    "position": "Head",
+    "salary": 543678.0
+  },
+  "EMP1007": {
+    "employee_id": "EMP1007",
+    "name": "Hamza",
+    "age": 35,
+    "phone": "03456782567",
+    "email": "hhh@email.com",
+    "department": "Electrical",
+    "position": "SDO",
+    "salary": 5436789.0
+  },
+  "EMP1008": {
+    "employee_id": "EMP1008",
+    "name": "Ali",
+    "age": 45,
+    "phone": "03456785678",
+    "email": "Ali@email.com",
+    "department": "IT",
+    "position": "Python Developer",
+    "salary": 8000.0
+  }
+}
